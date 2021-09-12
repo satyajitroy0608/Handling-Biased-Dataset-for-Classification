@@ -1,5 +1,7 @@
 # Handling-Biased-Dataset-for-Classification
-This is classification problem based on Credit Card Fraud Detection. ANN has been used
+This is classification problem based on Credit Card Fraud Detection
+
+ANN has been used
 
 The dataset has approximately 550 times more number of 0's as compared to 1's
 
